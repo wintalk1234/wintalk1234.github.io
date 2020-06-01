@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@400;700;800&family=Noto+Sans+KR:wght@100;300;400;500;700;900&family=Noto+Serif+KR:wght@200;300;400;500;600;700&display=swap');
 
 * {
-  font-family: Namum Gothic, sans-serif;
+  font-family: "Namum Gothic", sans-serif;
 }
 
 .cen {
@@ -18,11 +18,16 @@
 .co {
   width: auto;
   height: auto;
-  float: left;
   padding: 5px;
 }
 
 .h {
+  font-family: "Noto Serif KR", serif;
+  font-size: 48px;
+  font-weight: bold;
   text-align: center;
-  font-family: Noto Serif KR, serif;
+}
+
+.text {
+
 }
