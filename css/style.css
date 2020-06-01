@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@400;700;800&family=Noto+Sans+KR:wght@100;300;400;500;700;900&family=Noto+Serif+KR:wght@200;300;400;500;600;700&display=swap');
 
 * {
-  background-color: #e2f3cb;
   font-family: Namum Gothic, sans-serif;
 }
 
@@ -11,10 +10,9 @@
 
 .lside {
   width: 200px;
-  height: auto;
+  height: inherit;
   float: left;
   background-color: gray;
-  padding: 1px;
 }
 
 .co {
@@ -25,6 +23,6 @@
 }
 
 .h {
-  font-family: Noto Serif KR, serif;
   text-align: center;
+  font-family: Noto Serif KR, serif;
 }
